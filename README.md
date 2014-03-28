@@ -9,3 +9,5 @@ That's all this script does.
 
     ./rlipt.rb 1.2.3.4 log/production.log
 
+License: Apache 2.0
+
